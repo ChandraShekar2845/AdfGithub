@@ -1,0 +1,12 @@
+{
+	"name": "Saidagitconfg",
+	"properties": {
+		"globalParameters": {
+			"Foldername": {
+				"type": "string",
+				"value": "source"
+			}
+		}
+	},
+	"location": "eastus"
+}
